@@ -44,8 +44,7 @@ int main()
     initQueue(RunQ);
         if (threads == 0)
     {
-
-        printf("\n No Threads \n");
+        printf("No Threads\n");
         return 0;
     }
     else
